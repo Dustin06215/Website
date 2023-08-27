@@ -440,23 +440,8 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.contact-text6 {
-  font-size: 34px;
-  font-style: normal;
-  text-align: center;
-  font-weight: 500;
-  margin-right: 4px;
-  vertical-align: middle;
-}
 .contact-dropdown-arrow2 {
   transition: 0.3s;
-}
-.contact-icon10 {
-  width: 18px;
-  height: 18px;
-  margin-top: auto;
-  transition: 0.3s;
-  margin-bottom: auto;
 }
 .contact-dropdown-list2 {
   left: 0%;
@@ -542,7 +527,7 @@
   font-weight: 500;
   text-decoration: none;
 }
-.contact-text7 {
+.contact-text6 {
   font-size: 24px;
 }
 @media(max-width: 991px) {
