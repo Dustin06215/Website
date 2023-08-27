@@ -103,7 +103,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle01 {
+.contact-dropdown-toggle1 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -141,7 +141,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle02 {
+.contact-dropdown-toggle2 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -154,7 +154,7 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.contact-dropdown-toggle02:hover {
+.contact-dropdown-toggle2:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
@@ -173,7 +173,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle03 {
+.contact-dropdown-toggle3 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -186,7 +186,7 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.contact-dropdown-toggle03:hover {
+.contact-dropdown-toggle3:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
@@ -205,7 +205,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle04 {
+.contact-dropdown-toggle4 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -218,7 +218,7 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.contact-dropdown-toggle04:hover {
+.contact-dropdown-toggle4:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
@@ -254,7 +254,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle05 {
+.contact-dropdown-toggle5 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -267,7 +267,7 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.contact-dropdown-toggle05:hover {
+.contact-dropdown-toggle5:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
@@ -286,7 +286,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle06 {
+.contact-dropdown-toggle6 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -299,7 +299,7 @@
   padding-right: var(--dl-space-space-unit);
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.contact-dropdown-toggle06:hover {
+.contact-dropdown-toggle6:hover {
   fill: #fff;
   color: #fff;
   background-color: #595959;
@@ -428,7 +428,7 @@
   position: relative;
   border-radius: 2px;
 }
-.contact-dropdown-toggle07 {
+.contact-dropdown-toggle7 {
   fill: #595959;
   color: #595959;
   width: 100%;
@@ -442,93 +442,6 @@
 }
 .contact-dropdown-arrow2 {
   transition: 0.3s;
-}
-.contact-dropdown-list2 {
-  left: 0%;
-  width: max-content;
-  display: none;
-  z-index: 100;
-  position: absolute;
-  min-width: 100%;
-  transition: 0.3s;
-  align-items: stretch;
-  border-color: #D9D9D9;
-  border-width: 1px;
-  border-radius: 4px;
-  flex-direction: column;
-  list-style-type: none;
-  background-color: var(--dl-color-gray-white);
-  list-style-position: inside;
-}
-.contact-dropdown5 {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  border-radius: 2px;
-}
-.contact-dropdown-toggle08 {
-  fill: #595959;
-  color: #595959;
-  width: 100%;
-  display: inline-flex;
-  transition: 0.3s;
-  align-items: center;
-  padding-top: var(--dl-space-space-halfunit);
-  padding-left: var(--dl-space-space-unit);
-  border-radius: 4px;
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-halfunit);
-  justify-content: flex-start;
-}
-.contact-dropdown-toggle08:hover {
-  fill: #fff;
-  color: #fff;
-  background-color: #595959;
-}
-.contact-link7 {
-  width: 100%;
-  cursor: pointer;
-  display: flex;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 500;
-  text-decoration: none;
-}
-.contact-dropdown6 {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  border-radius: 2px;
-}
-.contact-dropdown-toggle09 {
-  fill: #595959;
-  color: #595959;
-  width: 100%;
-  display: inline-flex;
-  transition: 0.3s;
-  align-items: center;
-  padding-top: var(--dl-space-space-halfunit);
-  padding-left: var(--dl-space-space-unit);
-  border-radius: 4px;
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-halfunit);
-}
-.contact-dropdown-toggle09:hover {
-  fill: #fff;
-  color: #fff;
-  background-color: #595959;
-}
-.contact-link8 {
-  width: 100%;
-  cursor: pointer;
-  display: flex;
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 500;
-  text-decoration: none;
-}
-.contact-text6 {
-  font-size: 24px;
 }
 @media(max-width: 991px) {
   .contact-link2 {
@@ -603,80 +516,3 @@
     padding-right: var(--dl-space-space-doubleunit);
   }
 }
-.card {
-    display: flex;
-    height: 70px;
-    width: 270px;
-  }
-  
-  .card svg {
-    position: absolute;
-    display: flex;
-    width: 60%;
-    height: 100%;
-    font-size: 24px;
-    font-weight: 700;
-    opacity: 1;
-    transition: opacity 0.25s;
-    z-index: 2;
-    cursor: pointer;
-  }
-  
-  .card .social-link1,.card .social-link2,.card .social-link3,.card .social-link4 {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 25%;
-    color: whitesmoke;
-    font-size: 24px;
-    text-decoration: none;
-    transition: 0.25s;
-    border-radius: 50px;
-  }
-  
-  .card svg {
-    transform: scale(1);
-    filter: invert();
-  }
-  
-  .card svg:hover {
-    transform: scale(1);
-    filter: none;
-  }
-  
-  .card .social-link1:hover {
-    background: #f09433;
-    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
-    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
-    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-    animation: bounce_613 0.4s linear;
-  }
-  
-  .card .social-link2:hover {
-    background-color: #E22F35;
-    animation: bounce_613 0.4s linear;
-  }
-  .card .social-link2:hover img {
-    filter: invert();
-  }
-
-  
-  @keyframes bounce_613 {
-    40% {
-      transform: scale(1.4);
-    }
-  
-    60% {
-      transform: scale(0.8);
-    }
-  
-    80% {
-      transform: scale(1.2);
-    }
-  
-    100% {
-      transform: scale(1);
-    }
-  }
